@@ -1,4 +1,5 @@
 import Navbar from "@/components/global/navbar";
+import { InputWithLabel } from "@/components/global/numericInput";
 
 export default function Home() {
   return (
